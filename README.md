@@ -1,1 +1,1 @@
-# Projekt-Java
+# Java-projekt
